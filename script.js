@@ -27,6 +27,7 @@ const check = function () {
       document.querySelector('.score').textContent = score;
     } else {
       displayMessage('You lost the game ! :(');
+      document.querySelector("body").style.backgroundColor = "#c92a2a";
       document.querySelector('.score').textContent = score = 0;
     }
   }
