@@ -12,7 +12,7 @@ const check = function () {
   }
   // NOTE: When palyer wins
   else if (guess === secretNumber) {
-    displayMessage("مبروك ، كسبت بوسة هدية!!");
+    displayMessage("مبرووووك ، توقعك صحيح!!");
     document.querySelector("body").style.backgroundColor = "#60b347";
     document.querySelector(".number").style.width = "30rem";
     document.querySelector(".number").textContent = secretNumber;
