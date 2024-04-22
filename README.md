@@ -1,3 +1,1 @@
-You can check it here:
-
-[https://ahmedafsa.github.io/guessMyNumber/](https://ahmedafsa.github.io/guessMyNumber/)
+[Live DEMO](https://ahmedafsa.github.io/guessMyNumber/)
